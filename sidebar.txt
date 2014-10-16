@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aty:home|Door43 (aty)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aty|d43-aty repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aty/archive/master.zip|d43-aty.zip]]
+
+**Recent Changes**
+{{changes>ns = aty}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aty|Ethnologue data]]
+
